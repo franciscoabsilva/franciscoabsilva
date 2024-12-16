@@ -4,7 +4,8 @@
 <br>
 <br>
 I have a big gaming experience in my teenage years, which allowed me to have a deeper understanding of that field. I also ran a YouTube channel where I published gameplay videos, which allowed me to gain experience in video and image editing.
-
+<br>
+<br>
 In terms of programming, I have experience with Python, C, C++, Java, Prolog, Assembly, and I am eager to learn new technologies. You can find several projects I have built here on my GitHub</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoabsilva&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoabsilva" /> </p>
