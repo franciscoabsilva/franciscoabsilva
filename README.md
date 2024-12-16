@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Silva</h1>
-<h4 align="center">I attended the Lycée Français Charles Lepierre in Lisbon, where I learned four languages (Portuguese, French, English and Spanish), and I am currently learning German. I am in the second year of my bachelor’s degree in Computer Engineering at Instituto Superior Técnico in Lisbon, a member of the Student Association (AE), and a member of the Técnico Security Team. Additionally, I am passionate about entrepreneurship and have been involved in several small projects, the largest being my event promotion company, Lunar Events.
+<h4 align="center"> style="font-weight: normal;">I attended the Lycée Français Charles Lepierre in Lisbon, where I learned four languages (Portuguese, French, English and Spanish), and I am currently learning German. I am in the second year of my bachelor’s degree in Computer Engineering at Instituto Superior Técnico in Lisbon, a member of the Student Association (AE), and a member of the Técnico Security Team. Additionally, I am passionate about entrepreneurship and have been involved in several small projects, the largest being my event promotion company, Lunar Events.
 <br>
 <br>
 
