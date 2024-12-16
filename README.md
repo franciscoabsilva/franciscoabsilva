@@ -19,4 +19,4 @@ In terms of programming, I have experience with Python, C, C++, Java, Prolog, As
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=franciscoabsilva&show_icons=true&locale=en" alt="franciscoabsilva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoabsilva&show_icons=true&locale=en" alt="franciscoabsilva" /></p>
